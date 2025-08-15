@@ -1,0 +1,315 @@
+|EO: brank,|JA: 鰓,,|ZH2: 分支|,|EN: gill|,鳃
+|EO: skurĝ,|JA: (体罰用の短い)むち,,|ZH2: 鞭|,"|EN: to flog, lash, scourge, whip;scourge, whip, lash|",鞭
+|EO: spad,|JA: (細身の長くとがった)剣,,|ZH2: 剑|,"|EN: court sword, dress sword, dueling sword, epee, rapier, small sword|",剑
+|EO: kartoĉ,|JA: [軍]薬包,,|ZH2: 墨盒|,"|EN: cartridge, shell, shot shell, shotgun shell|",弹筒
+|EO: kiras,|JA: [軍]装甲,,|ZH2: 盔甲|,"|EN: armored;to armor, shield;armor, cuirass, breastplate|",甲K
+|EO: ŝild,|JA: [軍]盾(たて),,|ZH2: 盾|,"|EN: to shield;buckler, shield, sign, plaque, tag|",盾
+|EO: kron,|JA: 冠,|ZH1: 花冠，冕，王冠；冠状物,|ZH2: 王冠|,"|EN: to crown;Cronus, Kronos;crown (money)|",冠
+|EO: tiar,|JA: [史](ペルシャの)王冠,,|ZH2: 头饰|,"|EN: papal crown, tiara|",冠T
+|EO: egid,|JA: [神]アテナの盾,,|ZH2: 宙斯盾|,"|EN: aegis, protection, shield, auspices, sponsorship|",盾E
+|EO: amulet,|JA: お守り,,|ZH2: 护身符|,"|EN: amulet, charm, talisman|",护符
+|EO: talisman,|JA: [宗]護符,,|ZH2: 护符|,"|EN: amulet, charm, talisman|",护符T
+|EO: rapir,|JA: [史](細身の)長剣,,|ZH2: 剑杆织机|,"|EN: foil, rapier|",长剑
+|EO: epolet,|JA: [軍]肩章,,|ZH2: 肩章|,"|EN: epaulet, epaulette|",肩饰
+|EO: bisturi,|JA: [医]柳葉刀,,|ZH2: 解剖刀|,"|EN: lancet, surgeon’s knife|",手术刀
+|EO: ponard,|JA: (両刃の)短剣,,|ZH2: 匕首|,"|EN: to stab;dagger, poniard|",短剑
+|EO: kling,|JA: 刃身,|ZH1: 刀身，刀口，刃,|ZH2: 刀刃|,"|EN: blade (knife, etc.), cutting edge|",刃
+|EO: glav,|JA: 刀,|ZH1: 刀，剑,|ZH2: 剑|,"|EN: with a sword, using a sword;sword|",刀
+|EO: nadl,|JA: [機]針,|ZH1: 指针，唱针，注射器针头,|ZH2: 针|,"|EN: acicular;indicator, pointer, needle (compass, phonograph), hand (watch, clock)|",针
+|EO: alen,|JA: 突き針,,|ZH2: 向内|,|EN: awl|,锥
+|EO: ung,|JA: [解]つめ,|ZH1: 指甲，趾甲，爪,|ZH2: 指甲|,|EN: nail|,爪
+|EO: najl,|JA: 釘,|ZH1: 钉子,|ZH2: 指甲|,|EN: to nail;nail|,钉
+|EO: pingl,|JA: ピン,|ZH1: 大头针，别针,|ZH2: 别针|,"|EN: needle, pin|",针P
+|EO: ŝraŭb,|JA: [機]ねじ,|ZH1: 螺钉，螺丝，螺栓,|ZH2: 拧紧|,"|EN: screw, spiral;to screw;screw|",螺钉
+|EO: kejl,|JA: 木釘,|ZH1: 楔形木钉；销钉，栓,|ZH2: 挂钩|,"|EN: to peg, pin;peg, pin|",木钉
+|EO: martel,|JA: 金槌,|ZH1: 锤子，榔头,|ZH2: 锤|,|EN: to hammer;hammer|,锤
+|EO: ĉan,|JA: 撃鉄,,|ZH2: 陈|,"|EN: hammer (of a gun), trigger|",锤Ĉ
+|EO: bajonet,|JA: 銃剣,,|ZH2: 刺刀|,|EN: to bayonet;bayonet|,刺刀
+|EO: kugl,|JA: 弾丸,|ZH1: 子弹，枪弹,|ZH2: 子弹|,"|EN: ball, bullet, shot|",弹
+|EO: lanc,|JA: 槍,,|ZH2: 槊|,"|EN: lance, spear|",枪
+|EO: arĉ,|JA: [楽]弓,,|ZH2: 拱|,|EN: bow (violin)|,弓
+|EO: sag,|JA: 矢,|ZH1: 箭，箭头，（弓形的）高,|ZH2: 箭|,"|EN: to dart;arrow, dart|",矢
+|EO: arbalest,|JA: 大弓,,|ZH2: 弩|,"|EN: bow, crossbow|",大弓
+|EO: fork,|JA: [料]フォーク,|ZH1: 叉子，叉形物,|ZH2: 叉|,|EN: astride;to fork;fork|,叉
+|EO: pugn,|JA: こぶし,|ZH1: 拳，拳头,|ZH2: 拳头|,|EN: to punch;fist|,拳
+|EO: vip,|JA: 鞭,|ZH1: 鞭子,|ZH2: 鞭|,|EN: to whip;whip|,鞭
+|EO: kegl,|JA: 九柱戯の柱,,|ZH2: 九柱戏|,"|EN: bowling pin, ninepin, pin, skittle|",
+|EO: palis,|JA: 杭,|ZH1: 木桩，木橛,|ZH2: 苍白|,"|EN: post, stake, pile, support, stick|",杭
+|EO: timon,|JA: かじ棒,,|ZH2: 害怕|,"|EN: drawbar, shaft (of vehicle), beam, pole|",杆T
+|EO: baston,|JA: 棒,|ZH1: 棒；指挥棒，权杖,|ZH2: 戳|,"|EN: with a stick;to club;baton, cane, staff, stick, rod, bar|",棒
+|EO: stang,|JA: 棒,|ZH1: 竿，杆，柱，棒，棍，柄,|ZH2: 酒吧|,"|EN: bar, handle, pole, rod, shaft, spar, staff, stake, stave, perch|",杆
+|EO: kapon,|JA: [料]去勢オンドリ,,|ZH2: 头|,"|EN: capon, castrated cock, castrato, eunuch|",去势鸡
+|EO: pedel,|JA: 小役人,,|ZH2: 引座员|,"|EN: apparitor, beadle, usher, verger|",吏
+|EO: bub,|JA: いたずらっ子,|ZH1: 顽童，淘气鬼,|ZH2: 巴布|,"|EN: brat kid, urchin, jack (cards)|",童
+|EO: dand,|JA: 伊達男,|ZH1: 花花公子，纨绔子弟,|ZH2: 花花公子|,"|EN: dandy, dude, fop, fashionista|",魅男
+|EO: rekt/angul##,|JA: [数]直角→長方形ミスでは?,,|ZH2: 直/角##|,,直角
+|EO: romb,|JA: [数]ひし形,,|ZH2: 菱形|,"|EN: argyle;rhomb, rhombus|",菱形
+|EO: lozanĝ,|JA: [数]ひし形,,|ZH2: 菱形|,"|EN: lozenge, rhombus|",菱形L
+|EO: oval,|JA: [数]卵形線,|ZH1: 卵形线，卵形,|ZH2: 椭圆形|,|EN: oval;oval|,卵形
+|EO: konus,|JA: [数]円錐,,|ZH2: 会知道|,|EN: conical;cone|,圆锥
+|EO: kvadrat,|JA: [数]正方形,|ZH1: 正方形；平方,|ZH2: 正方形|,"|EN: quadrate, quadratic, square;quadrate, quadrature, square|",正方形
+|EO: kub,|JA: [数]立方体,|ZH1: 立方体；（菜）丁；立方,|ZH2: 立方体|,"|EN: Cuban; cubic, cubical;in the Cuban way;Cuba;cube|",立方体
+|EO: tri/angul##,|JA: [数]三角形,,|ZH2: 三/角##|,,三角形
+|EO: trapez,|JA: [数]台形,,|ZH2: 空中飞人|,"|EN: trapeze, trapezium, trapezoid|",梯形
+|EO: parabol,|JA: [数]放物線,,|ZH2: 寓言|,"|EN: parable, parabola|",放物线
+|EO: paralelogram,|JA: [数]平行四辺形,,|ZH2: 平行四边形|,|EN: parallelogram|,平行四边形
+|EO: paralel,|JA: [数]平行線,|ZH1: 平行线；[~oj]双杠,|ZH2: 平行线|,|EN: parallel;parallel line|,平行线
+|EO: diagonal,|JA: [数]対角線,,|ZH2: 对角线|,"|EN: diagonal, transverse;diagonally;diagonal|",对角线
+|EO: kalkul,|JA: (を)計算する,|ZH1: 数数，计算；算作,|ZH2: 数数|,"|EN: to calculate, count, figure, work out, compute, reckon, enumerate;account, bill, calculation, computation, reckoning, check, accounting, tab, calculus|",算
+|EO: aritmetik,|JA: 算数,,|ZH2: 算术|,"|EN: arithmetic;arithmetically;to perform arithmetic functions, calculate;arithmetic(s), number theory|",算术
+|EO: subtrah,|JA: [数]引き算する,|ZH1: [数学]减去,|ZH2: 减去|,|EN: to subtract;subtraction|,减S
+|EO: adici,|JA: (を)足し算する,|ZH1: [数学]加,|ZH2: 添加|,"|EN: additive;to add (up), count in;addition|",加A
+|EO: multiplik,|JA: [数](を)掛ける,|ZH1: [数学]乘,|ZH2: 乘法|,|EN: multiplicative;to multiply;multiplication|,乘M
+|EO: simetri,|JA: [数]対称,,|ZH2: 对称|,"|EN: symmetric, symmetrical;symmetry|",对称
+|EO: logaritm,|JA: [数]対数,,|ZH2: 对数|,|EN: logarithmic;logarithm|,对数
+|EO: trigonometri,|JA: [数]三角法,,|ZH2: 三角函数|,|EN: trigonometric;trigonometry|,三角法
+|EO: matematik,|JA: 数学,|ZH1: 数学,|ZH2: 数学|,|EN: mathematical;mathematically;mathematics|,数学
+|EO: algebr,|JA: 代数学,,|ZH2: 代数|,|EN: algebraic;algebraically;algebra|,代数
+|EO: teorem,|JA: [数]定理,,|ZH2: 定理|,|EN: theorem|,定理
+|EO: aksiom,|JA: [数]公理,,|ZH2: 公理|,|EN: axiomatic;axiom|,公理
+|EO: ekvaci,|JA: [数]方程式,,|ZH2: 使均衡|,|EN: equation;equation|,方程
+|EO: obl,|JA: [接尾辞]倍数,|ZH1: …倍的,|ZH2: 奥布尔|,"|EN: (denotes multiples of a number);times, multiplied by;multiple|",倍
+|EO: poligon,|JA: [数]多角形,,|ZH2: 多边形|,"|EN: buckwheat, knotgrass, knotweed; polygon|",多边形
+|EO: plural,|JA: [文]複数,|ZH1: 复数,|ZH2: 复数|,|EN: plural;plurally;plural|,複PA
+|EO: plur,|JA: 複数の,,|ZH2: 更多的|,"|EN: plural;multi-, poly;multi-, poly-|",複
+|EO: plur,|JA: 複数の,,|ZH2: 更多的|,"|EN: plural;multi-, poly;multi-, poly-|",複
+|EO: decimal,|JA: [数]十進法の,,|ZH2: 十进制|,"|EN: decimal;decimal, digit after the radix point|",十进
+|EO: on,|JA: [接尾辞]分数,|ZH1: …分之一的,|ZH2: 一|,"|EN: (denotes a fraction);one, they, people;portion, fraction, fragment, share, digit|",分
+|EO: frakci,|JA: [数]分数,,|ZH2: 派|,"|EN: fractional;to crack, fractionate, split up;faction, fraction|",分数
+|EO: segment,|JA: [数]線分,,|ZH2: 部分|,"|EN: to segment;segment, slice|",线段
+|EO: tangent,|JA: [数]正接,,|ZH2: 切线|,|EN: tangent|,切线
+|EO: kvadratur,|JA: [数]求積法,,|ZH2: 求积|,|EN: quadrature|,求积
+|EO: racional,|JA: [数]有理の,,|ZH2: 合理的|,|EN: rational;rational number|,有理数
+|EO: kvocient,|JA: [数]商,,|ZH2: 商|,"|EN: quotient;quotient, ratio|",商
+|EO: koeficient,|JA: [数]係数,,|ZH2: 系数|,|EN: coefficient|,系数
+|EO: renesanc,|JA: [史]ルネサンス,,|ZH2: 复兴|,|EN: renaissance;Renaissance|,复兴
+|EO: reformaci,|JA: [史]宗教改革,,|ZH2: 改革|,|EN: Reformation|,改革
+|EO: krist,|JA: [宗]キリスト,,|ZH2: 基督|,|EN: Christ|,救主
+|EO: jesu,|JA: [宗]イエス,,|ZH2: 是的|,|EN: Jesus|,
+|EO: jezuit,|JA: [宗]イエズス会士,,|ZH2: 耶稣会|,|EN: Jesuit|,
+|EO: bibli,|JA: 聖書,,|ZH2: 圣经的|,|EN: biblical;biblical;Bible|,圣典
+|EO: evangeli,|JA: [宗]福音書,,|ZH2: 福音|,"|EN: evangelic, evangelical;gospel;gospel|",福音
+|EO: eklezi,|JA: [宗]教会,|ZH1: 教会，全体牧师；宗教组织,|ZH2: 去教堂|,"|EN: ecclesiastic, ecclesiastical;church (institution, not building)|",教会
+|EO: sinagog,|JA: [宗]ユダヤ教会,,|ZH2: 犹太教堂|,|EN: synagogue|,教堂S
+|EO: kongregaci,|JA: [宗]教団,,|ZH2: 聚集|,|EN: congregation|,教团
+|EO: religi,|JA: 宗教,|ZH1: 宗教,|ZH2: 重新连接|,|EN: religious;religion|,宗教
+|EO: sekt,|JA: [宗]宗派,,|ZH2: 教派|,"|EN: sectarian;faction, sect|",教派
+|EO: paroĥ,|JA: [宗]教区,,|ZH2: 教区|,|EN: parochial;parish|,教区
+|EO: parok,|JA: [宗]教区,,|ZH2: 教区|,|EN: parochial;parish|,教区
+|EO: monoteism,|JA: [宗]一神論,,|ZH2: 一神论|,|EN: monotheistic;monotheism|,一神
+|EO: politeism,|JA: [宗]多神教,,|ZH2: 多神教|,|EN: polytheistic;polytheism|,多神
+|EO: katolik,|JA: [宗]カトリック教徒,,|ZH2: 天主教|,|EN: Catholic;Catholic|,天主教
+|EO: puritan,|JA: [史]清教徒,,|ZH2: 清教徒|,|EN: puritan;puritan|,清教徒
+|EO: pilgrim,|JA: [宗]巡礼する,,|ZH2: 朝圣|,|EN: to go on a pilgrimage;pilgrimage|,巡礼
+|EO: preĝ,|JA: [宗]祈る,|ZH1: 祈祷，祷告,|ZH2: 祷告|,|EN: to pray;prayer|,祈
+|EO: kult,|JA: [宗]礼拝,|ZH1: 祭礼；宗教仪式,|ZH2: 邪教|,"|EN: to idolize, venerate, worship;cult (system of religious worship), homage, devotion|",礼
+|EO: liturgi,|JA: [宗]礼拝式,,|ZH2: 礼仪|,|EN: liturgical;liturgy|,礼仪
+|EO: orden,|JA: 勲章,,|ZH2: 命令|,"|EN: to decorate, ordain;badge, decoration, fraternity, order|",勋
+|EO: bapt,|JA: (に)洗礼を施す,|ZH1: 洗礼；命名,|ZH2: 洗礼|,"|EN: baptismal;to baptize, christen;baptism, christening|",洗礼
+|EO: konsekr,|JA: [宗](を)清める,,|ZH2: 供奉|,"|EN: to consecrate, coronate, dedicate, devote, hallow, sanctify, ordain|",圣化
+|EO: anunciaci,|JA: [キ]受胎告知,,|ZH2: 宣布|,"|EN: Annunciation;Annunciation, Lady Day|",
+|EO: epifani,|JA: [宗]主顕節,,|ZH2: 顿悟|,"|EN: Epiphany, Twelfth-night|",主显
+|EO: pentekost,|JA: [宗]聖霊降臨祭,,|ZH2: 五旬节|,"|EN: Whit;Pentecost, Whitsunday|",降灵节
+|EO: pask,|JA: [宗]復活祭,|ZH1: 逾越节；复活节,|ZH2: 复活节|,"|EN: Paschal;Easter, Passover|",复活节
+|EO: advent,|JA: [宗]降臨節,,|ZH2: 来临|,|EN: Adventual;advent;Advent|,待降节
+|EO: kruc,|JA: [宗]十字架,|ZH1: 十字架，十字标记、符号、物品,|ZH2: 叉|,"|EN: crucial, cruciform;to cross;cross; Crux|",十字
+|EO: krucifiks,|JA: [宗](キリスト受難の)十字架像,,|ZH2: 十字架|,|EN: crucifix|,十字像
+|EO: hosti,|JA: [宗]聖餐式のパン,,|ZH2: 主办|,"|EN: wafer, host (Eucharist)|",圣饼
+|EO: komuni,|JA: 聖餐式,,|ZH2: 常见的|,|EN: to administer Holy Communion;communion|,圣宴
+|EO: eŭkaristi,|JA: [宗]聖餐,,|ZH2: 圣餐|,|EN: Eucharistic|,圣宴E
+|EO: kobold,|JA: (いたずらな)妖精,,|ZH2: 妖精|,"|EN: (hob)goblin, gnome, imp, sprite, elf, kobold|",妖K
+|EO: gnom,|JA: [神]地の精,,|ZH2: 侏儒|,"|EN: gnomish;brownie, gnome, goblin|",妖G
+|EO: anĝel,|JA: 天使,|ZH1: 安琪儿，天使,|ZH2: 天使|,|EN: angelic;angelically;angel|,天使
+|EO: elf,|JA: [神]小妖精,,|ZH2: 精灵|,"|EN: elfin, elfish;elf|",妖E
+|EO: fe,|JA: 妖精,|ZH1: 仙，神灵,|ZH2: 哦天哪|,"|EN: faerie, fairy, spirit;fairy, spirit|",妖
+|EO: monstr,|JA: 怪物,|ZH1: 畸形的动植物，怪物,|ZH2: 怪物|,|EN: monstrous;monster|,怪兽
+|EO: fantom,|JA: 幽霊,,|ZH2: 鬼|,"|EN: ghostly, phantom, spectral;to haunt, ghost;ghost, phantom, specter, spirit|",灵
+|EO: diabl,|JA: 悪魔,|ZH1: 魔鬼,|ZH2: 该死|,"|EN: devilish, diabolical, damned, diabolic, satanic;diabolically;devil|",魔
+|EO: demon,|JA: 悪霊,,|ZH2: 恶魔|,"|EN: demonic;demonically;daemon, demon|",魔DM
+|EO: furi,|JA: [神]復讐の女神,,|ZH2: 逃跑|,"|EN: fury, goddess of vengeance|",怒神
+|EO: paradiz,|JA: [宗]天国,|ZH1: 乐园，天堂，天国,|ZH2: 天堂|,"|EN: paradisiac, paradisiacal;paradise, Eden, Heaven|",天国
+|EO: eden,|JA: [神]エデン,,|ZH2: 伊甸园|,|EN: Eden;paradise|,乐园
+|EO: sankt,|JA: [宗]神聖な,|ZH1: 圣的，神圣,|ZH2: 圣|,"|EN: holy, sacred, saintly|",圣
+|EO: di,|JA: 神,|ZH1: 神，上帝,|ZH2: 说|,"|EN: divine;in a god-like manner;deity, divinity, god;God|",神
+|EO: Di##,|JA: 神(唯一神),|ZH1: 神，上帝,|ZH2: 上帝|,,神
+|EO: diakon,|JA: [神]助祭,,|ZH2: 执事|,|EN: deacon|,助祭
+|EO: orakol,|JA: [宗]神託,,|ZH2: 神谕|,"|EN: oracle, revelation|",神言
+|EO: providenc,|JA: [宗]神の摂理,,|ZH2: 天意|,|EN: providential;providence|,天意
+|EO: altar,|JA: 祭壇,,|ZH2: 坛|,|EN: altar;Ara|,坛
+|EO: maŭzole,|JA: 霊廟(びょう),,|ZH2: 陵|,|EN: mausoleum|,墓M
+|EO: pagod,|JA: [建]仏塔,,|ZH2: 宝塔|,|EN: pagoda|,仏塔
+|EO: katedral,|JA: [宗]大聖堂,,|ZH2: 大教堂|,|EN: cathedral|,大教堂
+|EO: moske,|JA: 回教寺院,,|ZH2: 清真寺|,|EN: mosque|,清真寺
+|EO: templ,|JA: 寺院,,|ZH2: 寺庙|,|EN: temple (worship)|,寺
+|EO: kript,|JA: [宗]地下聖堂,,|ZH2: 加密|,"|EN: cryptic;crypt, underground cell, vault|",地下堂
+|EO: sakristi,|JA: [宗]聖具室,,|ZH2: 司事|,"|EN: sacristy, vestry|",圣具室
+|EO: sakrament,|JA: [宗]秘跡,,|ZH2: 圣餐|,|EN: sacrament|,圣礼
+|EO: kapucen,|JA: [宗]カプチン会修道士,,|ZH2: 卷尾猴|,|EN: Capuchin monk|,
+|EO: legat,|JA: [宗]教皇特使,,|ZH2: 读|,|EN: legate|,教皇使
+|EO: nunci,|JA: [宗]教皇特派大使,,|ZH2: 宣布|,|EN: nuncio|,教皇大使
+|EO: kancelier,|JA: 大法官,,|ZH2: 校长|,|EN: chancellor|,大法官
+|EO: kardinal,|JA: [宗]枢機卿,,|ZH2: 红衣主教|,|EN: cardinal|,红衣主教
+|EO: kanonik,|JA: [宗]教会参事会員,,|ZH2: 典范|,"|EN: prebendary, canon|",教会員
+|EO: prior,|JA: [宗]小修道院長,,|ZH2: 事先的|,|EN: prior (ecclesiastical title)|,小院长
+|EO: abat,|JA: 修道院長,,|ZH2: 住持|,"|EN: abbatial;abbé, abbot|",院长
+|EO: vikari,|JA: [宗]助任司祭,,|ZH2: 牧师|,"|EN: curate, vicar|",助司
+|EO: apostol,|JA: 使徒,|ZH1: 使徒，鼓吹者,|ZH2: 使徒|,"|EN: apostolic;apostle, disciple|",使徒
+|EO: episkop,|JA: [宗]司教,,|ZH2: 主教|,"|EN: Episcopal;bishop, prelate|",司教
+|EO: sacerdot,|JA: [宗]司祭,,|ZH2: 牧师|,|EN: priestly;priest|,司S
+|EO: pastr,|JA: [宗]聖職者,|ZH1: 牧师，教士，神父,|ZH2: 牧师|,"|EN: sacerdotal;pastorally;clergyman, pastor, priest, minister, parson|",司
+|EO: monaĥ,|JA: [宗]修道士,,|ZH2: 僧|,"|EN: monastic;friar, monk|",修士
+|EO: monak,|JA: [宗]修道士,,|ZH2: 僧|,|EN: Monegasque;Monaco|,修士
+|EO: novic,|JA: [宗]修練士,,|ZH2: 新手|,|EN: novice|,初修
+|EO: katekist,|JA: [宗]伝道師,,|ZH2: 传教士|,|EN: catechist|,传教士
+|EO: kateĥist,|JA: [宗]伝道師,,|ZH2: 传教士|,|EN: catechist|,传教士
+|EO: urin,|JA: 排尿する,,|ZH2: 尿|,|EN: urinal;to urinate;urine|,尿
+|EO: sekreci,|JA: [生]分泌物,,|ZH2: 分泌|,|EN: to secrete;secretion|,泌
+|EO: ekskrement,|JA: [生]糞便,,|ZH2: 粪便|,|EN: excremental;excrement|,粪
+|EO: sang,|JA: 血,|ZH1: 血；血统,|ZH2: 血|,|EN: bloody;bloodily;to bleed;blood|,血
+|EO: sperm,|JA: [生]精液,,|ZH2: 精子|,|EN: sperm|,精子
+|EO: uter,|JA: [解]子宮,,|ZH2: 子宫|,"|EN: uterus, womb|",子宫
+|EO: testik,|JA: [解]睾丸,,|ZH2: 睾丸|,"|EN: testicle, testis|",精巢
+|EO: ren,|JA: [解]腎臓,|ZH1: 肾,|ZH2: 肾|,|EN: renal;kidney|,肾
+|EO: hepat,|JA: [解]肝臓,|ZH1: 肝,|ZH2: 肝|,|EN: hepatic;liver|,肝
+|EO: gal,|JA: [生]胆汁,|ZH1: 胆汁；恼怒，脾气,|ZH2: 加尔|,"|EN: bilious;bile, gall|",胆汁
+|EO: lien,|JA: [解]脾臓,,|ZH2: 关联|,"|EN: milt, spleen|",脾
+|EO: peritone,|JA: [解]腹膜,,|ZH2: 腹膜|,|EN: peritoneum|,腹膜
+|EO: ezofag,|JA: [解]食道,,|ZH2: 食管|,"|EN: esophagus, gullet|",食管
+|EO: intest,|JA: [解]腸,|ZH1: 肠,|ZH2: 肠|,|EN: intestine|,肠
+|EO: ventr,|JA: [解]腹,|ZH1: 腹，肚子,|ZH2: 腹部|,"|EN: abdominal;abdomen, stomach, belly, tummy|",腹
+|EO: stomak,|JA: [解]胃,|ZH1: 胃,|ZH2: 胃|,|EN: gastric;stomach|,胃
+|EO: pulm,|JA: [解]肺,|ZH1: 肺,|ZH2: 肺|,|EN: pulmonary;lung|,肺
+|EO: traĥe,|JA: [解]気管,,|ZH2: 气管|,"|EN: trachea, windpipe|",气管
+|EO: bronk,|JA: [解]気管支,,|ZH2: 支气管|,|EN: bronchial;bronchial tube|,支气管
+|EO: vejn,|JA: [解]静脈,|ZH1: 静脉，血管；脉，纹,|ZH2: 来|,"|EN: veined;to grain, vein, marble, mark with veins;vein|",静脉
+|EO: arteri,|JA: [解]動脈,|ZH1: 动脉，干线,|ZH2: 动脉|,|EN: arterial;artery|,动脉
+|EO: aort,|JA: [解]大動脈,,|ZH2: 主动脉|,|EN: aortic;aorta|,主动脉
+|EO: difteri,|JA: [病]ジフテリア,,|ZH2: 白喉|,|EN: diphtheria|,白喉
+|EO: difterit,|JA: difteri,,|ZH2: 白喉|,|EN: diphtheria|,白喉
+|EO: erizipel,|JA: [病]丹毒,,|ZH2: 丹毒|,|EN: erysipelas|,红肿
+|EO: tif,|JA: [病]チフス,,|ZH2: 伤寒|,|EN: typhus|,
+|EO: sifilis,|JA: [病]梅毒,,|ZH2: 梅毒|,|EN: syphilis|,梅毒
+|EO: hidrofobi,|JA: [病]恐水病,,|ZH2: 疏水物|,|EN: hydrophobia|,恐水病
+|EO: hipertrofi,|JA: [病]肥大,,|ZH2: 肥大|,|EN: hypertrophy|,肥大
+|EO: katarakt,|JA: [病]白内障,,|ZH2: 白内障|,|EN: cataract (eyes)|,白内障
+|EO: diabet,|JA: [病]糖尿病,,|ZH2: 糖尿病|,|EN: diabetic;diabetes|,糖尿
+|EO: plik,|JA: [病]糾髪病,,|ZH2: 折叠|,|EN: Polish plait|,卷发病
+|EO: kal,|JA: [病]たこ,|ZH1: 趼子，茧子，胼胝,|ZH2: 称呼|,"|EN: callous;callus, corn (on foot)|",胼
+|EO: fav,|JA: [病]黄癬,,|ZH2: 最喜欢的|,"|EN: scabby, verminous, scurvy;favus, ringworm|",癣
+|EO: skrofol,|JA: [病]るいれき,,|ZH2: 瘰|,|EN: scrofula|,
+|EO: skabi,|JA: [病]かいせん,,|ZH2: 痒|,"|EN: blotch, scab, infection, itch (disease), mange|",癣S
+|EO: furunk,|JA: [病]ねぶと,,|ZH2: 熬|,"|EN: boil (blain), furuncle|",
+|EO: pips,|JA: [鳥]舌病,,|ZH2: 点数|,|EN: pip (disease in birds)|,
+|EO: tuberkul,|JA: [病]結節,,|ZH2: 结节|,|EN: tubercle (med)|,结节
+|EO: fistul,|JA: [病]瘻孔,,|ZH2: 瘘管|,|EN: fistula|,
+|EO: pustul,|JA: [病]膿疱,,|ZH2: 脓包|,|EN: pustule|,脓包
+|EO: tetan,|JA: [病]破傷風,,|ZH2: 西坦|,"|EN: lockjaw, tetanus|",破伤风
+|EO: katalepsi,|JA: [医]強硬症,,|ZH2: 僵直|,"|EN: catalepsy, trance|",强直
+|EO: herni,|JA: [病]ヘルニア,,|ZH2: 疝|,"|EN: hernia, rupture|",疝
+|EO: ŝankr,|JA: [病]下疳(げかん),,|ZH2: 下疳|,"|EN: canker, chancre, venereal ulcer|",疡ꜱ̂
+|EO: ulcer,|JA: [病]潰瘍,,|ZH2: 溃疡|,"|EN: ulcer, sore|",疡
+|EO: kolik,|JA: [病]疝痛(せんつう),,|ZH2: 绞痛|,"|EN: colic, gripes|",绞痛
+|EO: piroz,|JA: [病]胸やけ,,|ZH2: 烧心|,"|EN: acid stomach, heartburn, pyrosis|",烧心
+|EO: angin,|JA: アンギナ(口峡炎),,|ZH2: 安金|,"|EN: angina, quinsy|",喉炎
+|EO: febr,|JA: [病]高熱,|ZH1: 发烧，热；狂热,|ZH2: 二月|,"|EN: febrile, feverish;feverishly;to have a fever;fever|",发热
+|EO: inflam,|JA: [病]炎症,,|ZH2: 炎|,|EN: inflamed;to be inflamed;inflammation|,炎症
+|EO: epidemi,|JA: [病]流行性伝染病,|ZH1: 流行病，瘟疫,|ZH2: 流行性|,|EN: epidemic;epidemic|,疫
+|EO: mal/varm/um##,|JA: [病]風邪,|ZH1: 伤风，感冒,|ZH2: 冷/暖/嗯##|,,
+|EO: grip,|JA: [病]インフルエンザ,|ZH1: 流行性感冒,|ZH2: 流感|,"|EN: flu, influenza|",疫G
+|EO: ekzem,|JA: [病]湿疹,,|ZH2: 湿疹|,|EN: eczema|,疹
+|EO: podagr,|JA: [病]痛風,,|ZH2: 痛风|,|EN: gout|,痛风
+|EO: disenteri,|JA: [病]赤痢,,|ZH2: 反对|,|EN: dysentery|,赤痢
+|EO: morbil,|JA: [病]はしか,,|ZH2: 麻疹|,|EN: measles;measles|,疹M
+|EO: lepr,|JA: [病]癩病,,|ZH2: 麻风|,|EN: leprous;leprosy|,癣L
+|EO: epilepsi,|JA: [病]てんかん,,|ZH2: 癫痫|,|EN: epileptic;epilepsy|, 脑发作
+|EO: skorbut,|JA: [病]壊血病,,|ZH2: 坏血病|,|EN: scorbutic;scurvy|,坏血
+|EO: konvulsi,|JA: [病]ひきつけ,,|ZH2: 抽搐|,|EN: to convulse;convulsion|,
+|EO: gangren,|JA: [病]壊疽,,|ZH2: 坏疽|,|EN: to mortify;gangrene|, 坏死
+|EO: reŭmatism,|JA: [病]リューマチ,,|ZH2: 风湿病|,|EN: rheumatic;rheumatism|,关节炎ʀ
+|EO: katar,|JA: [病]カタル,|ZH1: 黏膜炎,|ZH2: 卡塔尔|,|EN: catarrh;Qatar|,黏膜炎
+|EO: artrit,|JA: [病]関節炎,,|ZH2: 关节炎|,|EN: arthritic;arthritis|,关节炎
+|EO: ftiz,|JA: [病]肺結核,,|ZH2: 肺结核|,"|EN: phthisical;consumption, tuberculosis, phthisis|",结核
+|EO: tuberkuloz,|JA: [病]結核症,,|ZH2: 结核|,|EN: tuberculosis|,结核T
+|EO: variol,|JA: [病]天然痘,,|ZH2: 天花|,"|EN: smallpox, variola|",天花
+|EO: kokluŝ,|JA: [病]百日咳,,|ZH2: 百日咳|,"|EN: pertussis, whooping cough|",百日咳
+|EO: skarlatin,|JA: [病]しょうこう熱,,|ZH2: 猩红热|,"|EN: scarlatina, scarlet fever|",红疹
+|EO: diet,|JA: [医]規定食,|ZH1: （限制的）食谱；（给病人规定的）饮食,|ZH2: 饮食|,|EN: dietary;to be on a diet;diet|,食ᴅ
+|EO: higien,|JA: 衛生,|ZH1: 卫生学,|ZH2: 卫生|,"|EN: hygienic, sanitary;hygienically;hygiene|",卫生
+|EO: san,|JA: 健康な[造語法],|ZH1: 健康；未变质,|ZH2: 健康|,"|EN: healthy, well;healthily;to be well;health;samideano|",健
+|EO: fart,|JA: 暮らす(健康状態),|ZH1: 起居，健康状况,|ZH2: 屁|,"|EN: to be, fare (as to health);state|",健ꜰ
+|EO: imun,|JA: [医]免疫の,|ZH1: 免疫的；免除某项法律责任的；抗…的，防…的,|ZH2: 免疫|,"|EN: exempt, immune|",免疫
+|EO: inokul,|JA: [医](を)接種する,,|ZH2: 接种物|,"|EN: to inoculate, vaccinate|",接疫IN
+|EO: vakcin,|JA: [薬]ワクチン,|ZH1: 疫苗,|ZH2: 疫苗|,|EN: to vaccinate;vaccine|,接疫
+|EO: venen,|JA: 毒,|ZH1: 毒，毒物,|ZH2: 毒|,"|EN: noxious, poisonous, venomous, virulent;venomously;to envenom, poison;poison, venom, virus|",毒
+|EO: pest,|JA: [病]ペスト,,|ZH2: 害虫|,"|EN: pestiferous;pest, pestilence, plague, pestilence|",疫P
+|EO: parazit,|JA: [生]寄生生物,,|ZH2: 寄生虫|,"|EN: parasitic;to freeload, leech (off of);cadger, parasite, sponger, freeloader|",寄生虫
+|EO: bacil,|JA: [医]バチルス,|ZH1: 杆菌,|ZH2: 芽孢杆菌|,|EN: bacillary;bacillus|,菌BC
+|EO: bakteri,|JA: [生]バクテリア,|ZH1: 细菌,|ZH2: 细菌|,|EN: bacterial;bacterium|,菌
+|EO: simptom,|JA: [医]症状,,|ZH2: 症状|,|EN: symptom|,症
+|EO: hospital,|JA: 病院,|ZH1: 医院,|ZH2: 医院|,|EN: hospital|,医院
+|EO: pacient,|JA: [医]患者,,|ZH2: 病人|,|EN: patient|,病人
+|EO: apotek,|JA: 薬局,|ZH1: 药店，药房,|ZH2: 药店|,"|EN: drugstore, pharmacy, chemist|",药店
+|EO: medicin,|JA: 医学,|ZH1: 医学，医术,|ZH2: 药品|,"|EN: medical, medicinal;medicine (practice of)|",医学
+|EO: farmaci,|JA: 薬学,,|ZH2: 吸毒|,"|EN: pharmaceutics, pharmacy (science)|",药学
+|EO: jalap,|JA: [薬]ヤラッパ,,|ZH2: 墨西哥胡椒|,,
+|EO: narkot,|JA: [医](を)麻酔する,,|ZH2: 麻醉药|,"|EN: to drug, narcotize;drug|",麻醉
+|EO: narkotik,|JA: [医]麻酔薬,,|ZH2: 麻醉药|,|EN: narcotic|,麻醉IK
+|EO: medikament,|JA: 医薬,|ZH1: 药剂，药品,|ZH2: 药品|,"|EN: pharmaceutical;drug, medicine, pharmaceutical, medication|",药
+|EO: drog,|JA: 生薬,,|ZH2: 药物|,"|EN: drug;to dope, drug;drug, pharmaceutical|",药ᴅ
+|EO: pilol,|JA: [薬]錠剤,,|ZH2: 丸|,|EN: pill|,药丸
+|EO: plastr,|JA: [薬]膏薬,,|ZH2: 石膏|,|EN: plaster (dressing)|,贴药
+|EO: homeopati,|JA: [医]同種療法,,|ZH2: 顺势疗法|,"|EN: homeopathic;homeopathy, homoeopathy|",同种疗法
+|EO: homeopat,|JA: [医]同種療法医師,|ZH1: homeopat,|ZH2: 顺势疗法|,|EN: homeopath|,同种医
+|EO: hidroterapi,|JA: [医]水治療法,,|ZH2: 水疗|,|EN: hydrotherapy|,水疗法
+|EO: kurac,|JA: (を)治療する,|ZH1: 治疗,|ZH2: 治愈|,"|EN: medical;to care for, cure, heal, remedy, treat;cure (act of curing)|",疗
+|EO: terapi,|JA: [医]療法,,|ZH2: 治疗|,|EN: therapy|,疗法
+|EO: klinik,|JA: [医]臨床,|ZH1: 临床讲解；临床学；诊所，门诊部,|ZH2: 诊所|,|EN: clinical;clinic|,诊所
+|EO: kirurg,|JA: 外科医,|ZH1: 外科医生,|ZH2: 外科医生|,|EN: surgical;surgeon|,外科医
+|EO: ĥirurg,|JA: 外科医,,|ZH2: 外科医生|,|EN: surgical;surgeon|,外科医
+|EO: kirurgi,|JA: [医]外科学,|ZH1: 外科，外科学，外科手术,|ZH2: 经营|,|EN: surgery;surgically;surgery|,外科学
+|EO: ĥirurgi,|JA: [医]外科学,,|ZH2: 经营|,|EN: surgery;surgically;surgery (the science)|,外科学
+|EO: operaci,|JA: [医]手術する,|ZH1: 做手术；运算,|ZH2: 手术|,|EN: operational;to operate;operation|,手术
+|EO: amput,|JA: (を)切断する(手術),,|ZH2: 截肢|,|EN: to amputate;amputation|,切肢
+|EO: injekt,|JA: [医](を)注射する,|ZH1: 注射,|ZH2: 注入|,|EN: to inject;injection|,注入
+|EO: klister,|JA: [医]浣腸,,|ZH2: 灌肠剂|,"|EN: clyster, injection (medical), douche, enema|",注肠
+|EO: zuav,|JA: [軍]アルジェリア歩兵,,|ZH2: 祖阿夫|,|EN: Zouave|,兵Z
+|EO: sieĝ,|JA: [軍](城を)包囲する,,|ZH2: 围城|,|EN: to besiege;siege|,围
+|EO: embusk,|JA: [軍]待ち伏せ,,|ZH2: 伏击|,"|EN: to ambush;ambuscade, ambush|",伏击
+|EO: arm##,"|JA: (に)武装させる,武器",|ZH1: 武装，加固,|ZH2: 手臂＃＃|,,武
+|EO: arm,"|JA: (に)武装させる,武器",|ZH1: 武装，加固,|ZH2: 手臂|,"|EN: to arm (weapons), reinforce (concrete);arm, armament|",武
+|EO: mobiliz,|JA: [軍](を)動員する,,|ZH2: 动员|,|EN: to mobilize;mobilization|,动员
+|EO: rekrut,|JA: [軍]新兵,,|ZH2: 招募|,|EN: to recruit;recruit|,新兵
+|EO: kanon,|JA: [軍]大砲,,|ZH2: 大炮|,"|EN: canonical;cannon, big gun|",炮
+|EO: munici,|JA: [軍]弾薬,,|ZH2: 弹药|,"|EN: munition, ammunition|",弹ᴍ
+|EO: artileri,|JA: [軍]砲兵隊,,|ZH2: 炮兵|,"|EN: artillery, ordnance|",炮
+|EO: grenad,|JA: [軍]リュウ弾,,|ZH2: 格林纳达|,|EN: Grenada;grenade|,手弹
+|EO: torped,|JA: [軍]魚雷,,|ZH2: 鱼雷|,|EN: to torpedo;torpedo|,鱼雷
+|EO: salv,|JA: [軍]一斉射撃,,|ZH2: 节省|,|EN: salvo|,齐射
+|EO: halebard,|JA: [軍]ほこやり,,|ZH2: 戟|,|EN: halberd|,戈
+|EO: afust,|JA: [軍]砲架,,|ZH2: 运输|,|EN: (gun) carriage|,炮台
+|EO: kazemat,|JA: [軍]砲郭,,|ZH2: 炮台|,|EN: casemate|,炮室
+|EO: piked,|JA: [軍]小哨,,|ZH2: 纠察|,"|EN: guard, outpost, picket, sentry|",卫兵
+|EO: ponton,|JA: [軍]平底舟,,|ZH2: 桥|,|EN: pontoon|,舟桥
+|EO: eskadr,|JA: [軍]艦隊,,|ZH2: 中队|,|EN: squadron (naval)|,舰队
+|EO: admiralitat,|JA: [軍]海軍本部,,|ZH2: 金钟|,|EN: admiralty|,海军部
+|EO: gvardi,|JA: [軍]親衛隊,|ZH1: 近卫军,|ZH2: 守卫|,"|EN: guard (elite military corps, not sentry)|",卫队
+|EO: divizi,|JA: [軍]師団,,|ZH2: 划分|,"|EN: division, military division|",军团D
+|EO: kazern,|JA: [軍]兵営,,|ZH2: 兵营|,"|EN: barracks, soldiers’ quarters|",兵营
+|EO: infanteri,|JA: [軍]歩兵隊,,|ZH2: 步兵|,|EN: infantry|,步兵
+|EO: skadr,|JA: [軍]騎兵中隊,,|ZH2: 中队|,|EN: squadron|,队ꜱ
+|EO: kavaleri,|JA: [軍]騎兵隊,,|ZH2: 骑兵|,|EN: cavalry|,骑兵
+|EO: brigad,|JA: [軍]旅団,,|ZH2: 旅|,|EN: brigade|,队
+|EO: regiment,|JA: [軍]連隊,|ZH1: [军事]团；一大群，大批，大量,|ZH2: 团|,|EN: regiment|,队R
+|EO: batalion,|JA: [軍]大隊,,|ZH2: 营|,|EN: battalion|,队B
+|EO: legi,|JA: [史]軍団,,|ZH2: 阅读|,|EN: legion|,军团
+|EO: arme,|JA: 軍隊,|ZH1: 军队,|ZH2: 武装|,|EN: military;army|,军队
+|EO: korpus,|JA: [軍]軍団,,|ZH2: 语料库|,|EN: (army) corps|,军团K
+|EO: aviad,|JA: 航空,,|ZH2: 航空|,"|EN: aeronautical;to aviate, fly;aeronautics, aviation|",航空
+|EO: aviad/il##,|JA: 航空機,,|ZH2: 航空/il##|,,飞
+|EO: aeroplan,|JA: 飛行機,,|ZH2: 飞机|,"|EN: airplane, plane|",飞机
+|EO: flug,|JA: 飛ぶ,|ZH1: 飞,|ZH2: 航班|,"|EN: to flee, fly;flight|",飞
+|EO: pilot,|JA: パイロット,|ZH1: 领航员；飞行员,|ZH2: 飞行员|,|EN: to pilot;pilot|,飞行员
+|EO: fregat,|JA: [軍]フリゲート艦,,|ZH2: 护卫舰|,"|EN: frigate, frigate bird|",护卫舰
+|EO: paraŝut,|JA: [空]パラシュート,|ZH1: 降落伞,|ZH2: 降落伞|,"|EN: airborne, parachute;to parachute;parachute|",落伞
+|EO: helikopter,|JA: [空]ヘリコプター,|ZH1: 直升飞机,|ZH2: 直升机|,|EN: helicopter|,直升机
+|EO: ambulanc,|JA: 救急車,,|ZH2: 救护车|,"|EN: ambulance, field hospital|",急救车
